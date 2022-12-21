@@ -16,4 +16,9 @@ This Repository Contains Single Page Travel Website Made From HTML and CSS. Hope
 
 ![2022-09-25 (4)](https://user-images.githubusercontent.com/104457295/192153197-687a9c36-ee7f-4553-919e-f5f5ad8416ad.png)
 
+## Check This Website On https://ameya-travel-website.netlify.app
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/72169b56-ab1c-494b-a6d5-a2a3f10c1645/deploy-status)](https://app.netlify.com/sites/ameya-travel-website/deploys)
+
+ 
 
